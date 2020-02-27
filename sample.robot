@@ -21,9 +21,11 @@ Test Division
     keyword_div     1   5
 
 Test Case 1
+    [Tags]          OTHER
     run test case 1
 
 Test Turn Off System
+    [Tags]          OTHER
     turn off system
 
 *** Keywords ***
